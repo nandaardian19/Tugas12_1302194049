@@ -17,7 +17,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/flazefy/1302194041-Tugas12CI-CD</url>
+      <url>https://maven.pkg.github.com/nandaardian19/Tugas12_1302194049</url>
     </repository>
   </distributionManagement>
   
